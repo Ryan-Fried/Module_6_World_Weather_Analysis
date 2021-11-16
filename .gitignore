@@ -1,9 +1,14 @@
 # adding config.py file
 config.py
 
+# adding config.py file
+Vacation_Itinerary/config.py
+Vacation_Search/config.py
+Weather_Database/config.py
 # adding additonal files
 API_practice.ipynb
 random_numbers.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
